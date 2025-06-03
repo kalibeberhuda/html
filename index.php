@@ -1,1 +1,1 @@
-<?php echo 'Ini Indek CMS'; ?>
+ini indek bro...!
